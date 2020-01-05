@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/off-payroll-tax-calculator/static/css/main.63ade890.chunk.css",
+    "main.js": "/off-payroll-tax-calculator/static/js/main.c1469daf.chunk.js",
+    "main.js.map": "/off-payroll-tax-calculator/static/js/main.c1469daf.chunk.js.map",
+    "runtime-main.js": "/off-payroll-tax-calculator/static/js/runtime-main.194af345.js",
+    "runtime-main.js.map": "/off-payroll-tax-calculator/static/js/runtime-main.194af345.js.map",
+    "static/js/2.ecac501a.chunk.js": "/off-payroll-tax-calculator/static/js/2.ecac501a.chunk.js",
+    "static/js/2.ecac501a.chunk.js.map": "/off-payroll-tax-calculator/static/js/2.ecac501a.chunk.js.map",
+    "index.html": "/off-payroll-tax-calculator/index.html",
+    "precache-manifest.97572953c452b973b30f91e83cace116.js": "/off-payroll-tax-calculator/precache-manifest.97572953c452b973b30f91e83cace116.js",
+    "service-worker.js": "/off-payroll-tax-calculator/service-worker.js",
+    "static/css/main.63ade890.chunk.css.map": "/off-payroll-tax-calculator/static/css/main.63ade890.chunk.css.map",
+    "static/js/2.ecac501a.chunk.js.LICENSE": "/off-payroll-tax-calculator/static/js/2.ecac501a.chunk.js.LICENSE",
+    "static/media/off-payroll.png": "/off-payroll-tax-calculator/static/media/off-payroll.6ca515b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.194af345.js",
+    "static/js/2.ecac501a.chunk.js",
+    "static/css/main.63ade890.chunk.css",
+    "static/js/main.c1469daf.chunk.js"
+  ]
+}
