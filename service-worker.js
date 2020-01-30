@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/off-payroll-tax-calculator/precache-manifest.f988c641e6a53a21977aaf5850502c8a.js"
+  "/off-payroll-tax-calculator/precache-manifest.f1d4392c9d022ef047b6e215bae02880.js"
 );
 
 self.addEventListener('message', (event) => {
