@@ -1,5 +1,7 @@
 # Off-Payroll Tax Calculator
 
+![](static/media/tax_calculator.PNG)
+
 This is a tax calculator, designed to help UK limited company ontractors and freelancers determine the financial impact of the 
 Off-Payroll legislation on their post-tax income. The Off-Payroll legislation is due to be introduced to the private sector in April 
 2020, and will deem hiring firms responsible for assessing the employment status of their flexible workers for tax purposes. This 
